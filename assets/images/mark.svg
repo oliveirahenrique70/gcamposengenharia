@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">GCampos</title>
+  <rect width="64" height="64" rx="14" fill="#0d223b"/>
+  <path d="M14 27 29 19v33H14V27Zm15-9 20-9v43H29V18Z" fill="none" stroke="#f6f8fc" stroke-width="2.4" stroke-linejoin="round"/>
+  <path d="M19 33h5m-5 7h5m-5 7h5m11-21 9-4m-9 12 9-4m-9 12 9-4m-9 12 9-4" fill="none" stroke="#83a7ff" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M9 52h46" fill="none" stroke="#83a7ff" stroke-width="2.4" stroke-linecap="round"/>
+</svg>
